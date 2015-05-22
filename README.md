@@ -1,5 +1,5 @@
 # Mailbox
-
+9 hours<br>
 On dragging the message left...<br>
 Initially, the revealed background color should be gray.<br>
 As the reschedule icon is revealed, it should start semi-transparent and become fully opaque. If released at this point, the message should return to its initial position.<br>
